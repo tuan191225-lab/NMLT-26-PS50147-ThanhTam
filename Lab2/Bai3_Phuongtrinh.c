@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     float a, b, x;
     printf("Nhap he so a: ");
